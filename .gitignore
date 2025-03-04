@@ -1,0 +1,7 @@
+echo "venv/
+.vscode/
+*.pkl
+__pycache__/
+*.log
+.env
+.DS_Store" > .gitignore
